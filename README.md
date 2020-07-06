@@ -11,4 +11,4 @@ I created this project inorder to process the image from the mobile, and give th
 
 >I've taken a score of 638. 
 
->I am intersted to your score. 
+>I am intersted to see your score. 
